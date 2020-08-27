@@ -1,0 +1,37 @@
+{
+  "homepage": "",
+  "name": "react-list-exercise",
+  "version": "1.0.0",
+  "description": "<p> I do not own any pictures</p> <p> I use the images for scholar purposes</p> <p> I do not own any pictures</p>",
+  "main": "index.js",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "author": "melitta",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^9.8.0",
+    "node-sass": "^4.14.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "^3.4.3"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

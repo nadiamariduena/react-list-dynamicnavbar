@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-list-dynamicnavbar/static/css/main.1f41150d.chunk.css",
+    "main.js": "/react-list-dynamicnavbar/static/js/main.ec187603.chunk.js",
+    "main.js.map": "/react-list-dynamicnavbar/static/js/main.ec187603.chunk.js.map",
+    "runtime-main.js": "/react-list-dynamicnavbar/static/js/runtime-main.6793e168.js",
+    "runtime-main.js.map": "/react-list-dynamicnavbar/static/js/runtime-main.6793e168.js.map",
+    "static/js/2.5b1600f0.chunk.js": "/react-list-dynamicnavbar/static/js/2.5b1600f0.chunk.js",
+    "static/js/2.5b1600f0.chunk.js.map": "/react-list-dynamicnavbar/static/js/2.5b1600f0.chunk.js.map",
+    "index.html": "/react-list-dynamicnavbar/index.html",
+    "precache-manifest.76cdaa223b22dde758e85e2b225302e3.js": "/react-list-dynamicnavbar/precache-manifest.76cdaa223b22dde758e85e2b225302e3.js",
+    "service-worker.js": "/react-list-dynamicnavbar/service-worker.js",
+    "static/css/main.1f41150d.chunk.css.map": "/react-list-dynamicnavbar/static/css/main.1f41150d.chunk.css.map",
+    "static/js/2.5b1600f0.chunk.js.LICENSE.txt": "/react-list-dynamicnavbar/static/js/2.5b1600f0.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/react-list-dynamicnavbar/static/media/minhyunwoo_metalmagazine.ae4817d5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6793e168.js",
+    "static/js/2.5b1600f0.chunk.js",
+    "static/css/main.1f41150d.chunk.css",
+    "static/js/main.ec187603.chunk.js"
+  ]
+}
